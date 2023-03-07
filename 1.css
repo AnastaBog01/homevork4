@@ -1,0 +1,37 @@
+body{
+  background-image: url(shot-of-a-highway-road-surrounded-by-dried-grass-fields-under-a-sky-during-sunset.jpg);
+  background-attachment: fixed;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+li{
+  color: darkblue;
+}
+.auto{
+  width:100px;
+  height:100px;
+}
+.auto1{
+  width:400px;
+  height:300px;
+  margin: 10px 10px;
+}
+p{
+  float: right;
+  text-align: left;
+}
+ul{
+  float: right;
+  text-align: justify;
+  margin-right: 100px;
+}
+.au{
+  margin-right: 100px;
+}
+#skoda{
+  margin-top: 120px;
+}
